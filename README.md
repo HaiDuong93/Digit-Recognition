@@ -1,2 +1,5 @@
 # Digit-Recognition-Using-CNN
-Use Neural Network to recognition on Mnist data.
+Use CNN to recognition on Mnist data 
+
+# Run It On Your Machine
+git clone https://github.com/HaiDuong93/Digit-Recognition.git
